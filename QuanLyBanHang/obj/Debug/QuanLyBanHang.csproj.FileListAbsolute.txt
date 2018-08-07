@@ -1,0 +1,65 @@
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\ResolveAssemblyReference.cache
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\SV\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.mdf
+D:\SV\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang_log.ldf
+D:\SV\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\SV\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\SV\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMatHang.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangKi.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhaCC.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.mdf
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang_log.ldf
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\ResolveAssemblyReference.cache
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangKi.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMatHang.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhaCC.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmAbout.resources
+D:\SV\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLienHe.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmAbout.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangKi.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLienHe.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMatHang.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhaCC.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Nguyễn Toàn\Desktop\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmAbout.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangKi.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLienHe.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMatHang.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhaCC.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Nguyễn Toàn\Desktop\C Shape\QuanLyBanHang3\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
